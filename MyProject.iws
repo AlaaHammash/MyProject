@@ -21,16 +21,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99ca2857-dd43-4555-a960-60712004de2d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/MyProject.iml" afterPath="$PROJECT_DIR$/MyProject.iml" />
-      <change beforePath="$PROJECT_DIR$/MyProject.ipr" afterPath="$PROJECT_DIR$/MyProject.ipr" />
       <change beforePath="$PROJECT_DIR$/MyProject.iws" afterPath="$PROJECT_DIR$/MyProject.iws" />
+      <change beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
       <change beforePath="$PROJECT_DIR$/Procfile.local" afterPath="$PROJECT_DIR$/Procfile.local" />
-      <change beforePath="$PROJECT_DIR$/out/Web.war" afterPath="$PROJECT_DIR$/out/Web.war" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myproject/SelectLiquorServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/myproject/SelectLiquorServlet.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myproject/Util.java" afterPath="$PROJECT_DIR$/src/main/java/com/myproject/Util.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myproject/controllers/PageController.java" afterPath="$PROJECT_DIR$/src/main/java/com/myproject/controllers/PageController.java" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/index.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/Procfile.windows" afterPath="$PROJECT_DIR$/Procfile.windows" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="MyProject.iws" />
@@ -93,11 +87,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="57" column="28" lean-forward="false" selection-start-line="57" selection-start-column="24" selection-end-line="70" selection-end-column="43" />
+            <state relative-caret-position="89">
+              <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -107,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="87" lean-forward="false" selection-start-line="0" selection-start-column="87" selection-end-line="0" selection-end-column="87" />
+              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -117,17 +111,17 @@
         <entry file="file://$PROJECT_DIR$/Procfile.windows">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="21" />
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile.local" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Procfile.local" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile.local">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="21" />
+              <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -187,10 +181,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/myproject/SelectLiquorServlet.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/Procfile.windows" />
         <option value="$PROJECT_DIR$/Procfile.local" />
-        <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -683,12 +677,12 @@
       <workItem from="1520285437172" duration="3536000" />
       <workItem from="1520360268566" duration="52245000" />
       <workItem from="1520755773879" duration="9793000" />
-      <workItem from="1520944590148" duration="3709000" />
+      <workItem from="1520944590148" duration="4195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77755000" />
+    <option name="totallyTimeSpent" value="78241000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1143,14 +1137,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile.windows">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module_myproject.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1829">
@@ -1182,22 +1168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="87" lean-forward="false" selection-start-line="0" selection-start-column="87" selection-end-line="0" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile.local">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/myproject-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1216,8 +1186,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="57" column="28" lean-forward="false" selection-start-line="57" selection-start-column="24" selection-end-line="70" selection-end-column="43" />
+        <state relative-caret-position="89">
+          <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile.windows">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile.local">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
           <folding />
         </state>
       </provider>
