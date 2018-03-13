@@ -51,12 +51,11 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-dependency-plugin</artifactId>
-                <version>3.0.2</version>
+                <version>2.3</version>
                 <executions>
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>copy-dependencies</goal>
                             <goal>copy</goal>
                         </goals>
                         <configuration>
@@ -64,7 +63,7 @@
                                 <artifactItem>
                                     <groupId>com.github.jsimone</groupId>
                                     <artifactId>webapp-runner</artifactId>
-                                    <version>9.0.5</version>
+                                    <version>8.0.24.0</version>
                                     <destFileName>webapp-runner.jar</destFileName>
                                 </artifactItem>
                             </artifactItems>
@@ -88,10 +87,11 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
-                <version>2.3</version>
-
+                <version>2.6</version>
                 <configuration>
-                    <warSourceDirectory>web</warSourceDirectory>
+                    <warSourceDirectory>src/main/webapp</warSourceDirectory>
+                    <warName>web</warName>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
 
@@ -107,6 +107,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>web</finalName>
     </build>
 
 </project>
