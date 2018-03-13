@@ -55,9 +55,9 @@
                 <executions>
                     <execution>
                         <phase>package</phase>
-                        <!--<goals>
+                        <goals>
                             <goal>copy-dependencies</goal>
-                            &lt;!&ndash;<goal>copy</goal>&ndash;&gt;
+                            <goal>copy</goal>
                         </goals>
                         <configuration>
                             <artifactItems>
@@ -68,7 +68,7 @@
                                     <destFileName>webapp-runner.jar</destFileName>
                                 </artifactItem>
                             </artifactItems>
-                        </configuration>-->
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
