@@ -102,7 +102,7 @@
                 <configuration>
                     <appName>MyProject</appName>
                     <processTypes>
-                        <web>java $JAVA_OPTS -cp target/classes:target/dependency/* Main</web>
+                        <web> java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/web.war</web>
                     </processTypes>
                 </configuration>
             </plugin>
